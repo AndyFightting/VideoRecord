@@ -311,6 +311,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "ed21f08b-fd34-42b1-a762-965662004bf9";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -347,6 +348,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PROVISIONING_PROFILE = "ed21f08b-fd34-42b1-a762-965662004bf9";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -360,6 +362,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ed21f08b-fd34-42b1-a762-965662004bf9";
 			};
 			name = Debug;
 		};
@@ -371,6 +374,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "ed21f08b-fd34-42b1-a762-965662004bf9";
 			};
 			name = Release;
 		};
@@ -427,6 +431,7 @@
 				58FFD68B1B1D6D0000163610 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		58FFD68C1B1D6D0000163610 /* Build configuration list for PBXNativeTarget "VideoRecordTests" */ = {
 			isa = XCConfigurationList;
@@ -435,6 +440,7 @@
 				58FFD68E1B1D6D0000163610 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
